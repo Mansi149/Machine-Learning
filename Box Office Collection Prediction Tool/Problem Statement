@@ -1,0 +1,6 @@
+Filename : Bahubali2vsDangal.py
+Dataset : Bahubali2vsDangal.csv
+Problem Statement : It contains Data of Day wise collections of the movies Bahubali 2 and Dangal (in crores) for the first 9 days.
+Now, you have to write a python code to predict which movie would collect more on the 10th day.
+Hint : First Approach - Create two models, one for Bahubali and another for Dangal
+       Second Approach - Create one model with two labels
